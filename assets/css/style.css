@@ -1169,3 +1169,23 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.angelList{
+  background-image: url("../img/angelistblack.png");
+  background-size: contain;
+  width: 11pt;
+  height: 15pt
+}
+.angelList:hover {
+  background-image: url("../img/angelist-blue.png");
+  background-size: contain;
+  width: 11pt;
+  height: 15pt
+}
+.postgresqlIcon{
+  background-image: url("../img/Postgresql_elephant.svg");
+  background-size: cover;
+  width: 14pt;
+  height: 13pt;
+display:inline-block
+}
