@@ -1210,3 +1210,7 @@ display:inline-block
   height: 13pt;
 display:inline-block
 }
+#envelope{
+  width:100pt;
+  height: 100pt;
+}
