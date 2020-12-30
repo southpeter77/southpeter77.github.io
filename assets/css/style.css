@@ -1189,3 +1189,24 @@ section {
   height: 13pt;
 display:inline-block
 }
+.dockerIcon{
+  background-image: url("../img/docker.png");
+  background-size: cover;
+  width: 14pt;
+  height: 13pt;
+display:inline-block
+}
+.gitIcon{
+  background-image: url("../img/gitIcon.png");
+  background-size: cover;
+  width: 14pt;
+  height: 13pt;
+display:inline-block
+}
+.awsIcon{
+  background-image: url("../img/awsIcon.png");
+  background-size: cover;
+  width: 20pt;
+  height: 13pt;
+display:inline-block
+}
